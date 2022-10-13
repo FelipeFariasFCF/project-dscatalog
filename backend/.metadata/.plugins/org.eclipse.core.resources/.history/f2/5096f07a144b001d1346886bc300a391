@@ -1,0 +1,3 @@
+IMPORT INTO tb_category (name) values ('Books');
+IMPORT INTO tb_category (name) values ('Electronics');
+IMPORT INTO tb_category (name) values ('Computers');

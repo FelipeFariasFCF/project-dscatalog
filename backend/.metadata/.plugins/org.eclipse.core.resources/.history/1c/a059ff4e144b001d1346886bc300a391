@@ -1,0 +1,1 @@
+IMPORT INTO tb_category (name) values('Books');
